@@ -8,7 +8,7 @@ Each project lives in its own repository, with its own code, setup instructions,
 
 ## Projects
 
-### ✋ Hand Gesture Video Masking & Overlay
+### ✋ Hand Gesture Video Masking & Overlay 🤚
 
 **Repository:** [hand-gesture-video-masking-and-overlay](https://github.com/Niladri-Baksi/Hand-Gesture-Video-Masking-Overlay)
 
@@ -34,7 +34,7 @@ A real-time computer vision project that uses **hand tracking to create a dynami
 
 ---
 
-### 👤 Face Recognition Attendance System
+### 👥 Face Recognition Attendance System
 
 **Repository:** [face-recognition-attendance-system](https://github.com/Niladri-Baksi/Face-Recognition-And-Attendance)
 
